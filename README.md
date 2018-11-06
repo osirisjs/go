@@ -80,10 +80,13 @@ Start here.
 This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
 
+### Ethics in Machine Intelligence
+Human impact is a first-class concern when building machine intelligence technology. When we build products, we deduce patterns and then reinforce them in the world. Ethics in any Engineering concerns understanding the sociotechnological impact of the products and services we are bringing to bear in the human world -- and whether they are reinforcing a future we all want to live in.
+* [Index: Cultural Bias in Machine Intelligence](http://machinebias.org/)
+
 ### Math
 
-[★ What are some good resources for learning about numerical analysis? / Quora ]
-(http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
+* [What are some good resources for learning about numerical analysis? / Quora](http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 #### **Linear Algebra & Programming**
  * Linear Algebra [Khan Academy / Videos](http://bit.ly/khanlinalg)
